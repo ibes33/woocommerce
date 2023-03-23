@@ -1,0 +1,70 @@
+2023-03-20T18:21:12+00:00 CRITICAL Uncaught Error: Call to undefined function get_regular_price() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\front-page.php:95
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\front-page.php on line 95
+
+2023-03-20T20:28:07+00:00 CRITICAL Uncaught Error: Call to undefined function pawsgang_post_thumbnail() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php:32
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\single.php(20): get_template_part('template-parts/...', 'product')
+#4 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php on line 32
+
+2023-03-20T20:28:41+00:00 CRITICAL Uncaught Error: Call to undefined function pawsgang_entry_footer() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php:61
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\single.php(20): get_template_part('template-parts/...', 'product')
+#4 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php on line 61
+
+2023-03-20T20:29:02+00:00 CRITICAL Uncaught Error: Call to undefined function pawsgang_entry_footer() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php:62
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\single.php(20): get_template_part('template-parts/...', 'product')
+#4 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php on line 62
+
+2023-03-20T20:29:04+00:00 CRITICAL Uncaught Error: Call to undefined function pawsgang_entry_footer() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php:62
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\single.php(20): get_template_part('template-parts/...', 'product')
+#4 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php on line 62
+
+2023-03-20T20:29:23+00:00 CRITICAL Uncaught Error: Call to undefined function pawsgang_entry_footer() in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php:64
+Stack trace:
+#0 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(785): require()
+#1 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template.php(718): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\single.php(20): get_template_part('template-parts/...', 'product')
+#4 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\WP\Woocommerce\wordpress\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\food\template-parts\content.php on line 64
+
+2023-03-20T20:49:36+00:00 CRITICAL syntax error, unexpected '>' in C:\xampp\htdocs\WP\Woocommerce\wordpress\wp-content\themes\PawsGang-eCommerce-Theme-WooCommerce\functions.php on line 289
+
